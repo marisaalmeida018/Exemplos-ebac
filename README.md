@@ -1,7 +1,7 @@
 # Exemplos-ebac
 Projetos.
 
-Primeiro exemplo de commit teste.
+Primeira commit.
 Segundo commit.
 Terceiro commit.
 Quarto commit
